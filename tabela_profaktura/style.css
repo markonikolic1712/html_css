@@ -45,4 +45,14 @@ h1 {
 	text-align: right;
 	font-weight: bold;
 }
+.bold_centar{
+	text-align: center;
+	font-weight: bold;
+}
+.centar{
+	text-align: center;
+}
+.euro{
+	text-align: right;
+}
 
