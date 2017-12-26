@@ -1,0 +1,48 @@
+body{
+	font-family: 'Open Sans', sans-serif;
+	background: #CCCCCC;
+	margin: 0;
+	padding: 0;
+	font-size: 0.875em;
+}
+.wrapper{
+	width:1280px;
+	background: #FFFFFF;
+	margin: 0 auto;
+	padding: 0 0 5px 0;
+}
+h1 {
+	padding: 20px 0 0 20px;
+}
+.tabela{
+	width: 1260px;
+	height: 600px;
+	border-collapse: collapse;
+	border: 2px solid #6F6666;
+	margin: 10px;
+	text-align: left;
+}
+.tabela th{
+	background: #AAAAAA;
+	border-bottom: none;
+	padding: 3px;
+	height: 20px;
+}
+.tabela td{
+	width: 140px;
+	padding: 3px;
+	height: 20px;
+	border-bottom: 2px solid #6F6666;
+	border-left: 1px solid #6F6666;
+	border-right: 1px solid #6F6666;
+	border-top: none;
+}
+.bold_levo{
+	text-align: left;
+	font-weight: bold;
+}
+.bold_desno{
+	text-align: right;
+	font-weight: bold;
+}
+

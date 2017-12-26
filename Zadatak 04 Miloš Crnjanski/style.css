@@ -1,0 +1,27 @@
+body {
+	background: #89D6D9;
+}
+#container {
+	background: #FFFFFF;
+	width: 920px;
+	padding: 20px;
+	margin: 0 auto;
+}
+table {
+    border-collapse: collapse;
+}
+table th {
+	background: #ECE7D7;
+}
+table td {
+	padding: 3px 4px;
+	background: #F5F4F2;
+}
+table, th, td {
+	border: 1px solid #CCCCCC;
+} 
+#footer {
+	margin-top:20px;
+	background: #DDDDDD;
+	padding: 10px;
+}

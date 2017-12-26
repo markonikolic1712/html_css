@@ -1,0 +1,33 @@
+body{
+	background: #89D6D9;
+	margin: 0;
+	padding: 0;
+}
+
+#wrapper{
+	width:920px;
+	padding: 20px;
+	margin: 10px auto 0;
+	background: #FFFFFF;
+}
+
+.bottom{
+	background: #DDDDDD;
+	padding: 10px;
+	margin-top: 20px;
+}
+
+.tbl, .tbl th, .tbl td{
+	border: 1px solid red;
+	border-collapse: collapse;
+	background: yellow;
+	padding: 3px;
+}
+.tbl th{
+	background: lime;
+}
+.izdvojen{
+	color: blue;
+	font-weight:bold;
+	font-style:italic;
+}

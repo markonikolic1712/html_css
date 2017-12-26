@@ -1,0 +1,59 @@
+body {
+	background: #CC9966;
+	margin: 0;
+	padding: 0;
+}
+#wrapper {
+	background: #FFFFFF;
+	width: 950px;
+	margin: 0 auto;
+	padding: 15px;
+}
+#header {
+	overflow: hidden;
+	background: #8CC63F;
+	padding: 20px;
+}
+#logo {
+	float:left;
+}
+.slogan {
+	float: right;
+}
+#nav {
+	background: #534741;
+	height: 40px;
+	margin: 15px 0;
+}
+#main {
+	float: left;
+	background: #E6E6E6;
+	padding: 20px;
+	width: 620px;
+	margin-bottom: 15px;
+}
+.slika{
+	float:left;
+	margin:5px 10px 7px 0;
+} 
+.slika p {
+	font-size:12px;
+	font-style:italic;
+	margin-bottom: 0;
+}
+.vesti {
+	width:190px;
+	margin-left:10px;
+	float:left;
+}
+#sidebar {
+	background: #CCCC99;
+	width: 280px;
+	float: right;
+	height: 600px;
+}
+#footer {
+	background: #534741;
+	height: 40px;
+	clear: both;
+}

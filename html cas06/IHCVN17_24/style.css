@@ -1,0 +1,81 @@
+body{
+	background: #CCCCCC;
+	margin: 0;
+	padding: 0;
+}
+#wrapper{
+	overflow: hidden;
+	background: #FFFFFF;
+	width: 940px;
+	margin: 20px auto;
+	padding: 15px;
+	box-shadow: 2px 2px 5px gray;
+}
+#header{
+	overflow:hidden;
+	background: #C51417;
+	height:100px;
+}
+#logo{
+	float: left;
+	padding:20px 0 0 20px;
+}
+#slogan{
+	font-style: italic;
+	float:right;
+	margin: 30px 30px;
+	font-size: 1.4em;
+	color: #FFFFFF;
+}
+#nav{
+	overflow: hidden;
+	margin-top: 10px;
+	padding: 0;
+	height: 30px;
+	background: #333333;
+	margin-bottom: 10px;
+
+}
+.menu{
+	float:left;
+	margin: 0;
+	padding: 0;
+}
+
+.item{
+	padding-left: 20px;
+	padding-top: 8px;
+	display: block;
+	color: #FFFFFF;
+	float:left;
+	font-size: 0.8em;
+}
+#main{
+	overflow:hidden;
+}
+.central{
+	float:left;
+	width:660px;
+	margin-right: 10px;
+}
+.central img{
+	width: 660px;
+	display: block;
+	margin: 0 auto;
+}
+.sidebar{
+	height:400px;
+	width:270px;
+	background:blue;
+	float:right;
+}
+#footer{
+	margin-top: 10px;
+	background: red;
+	height: 50px;
+
+}
+
+
+
+	

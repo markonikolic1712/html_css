@@ -1,0 +1,36 @@
+body {
+	background: #CC9966;
+}
+#wrapper {
+	background: #FFFFFF;
+	width: 950px;
+	margin: 30px auto 30px;
+	padding: 15px;
+}
+#header {
+	background: #8CC63F;
+	height: 150px;
+}
+#nav {
+	background: #534741;
+	height: 40px;
+	margin: 15px 0;
+}
+#main {
+	background: #E6E6E6;
+	width: 660px;
+	height: 600px;
+	float: left;
+	margin-bottom: 15px;
+}
+#sidebar {
+	background: #CCCC99;
+	width: 280px;
+	float: right;
+	height: 600px;
+}
+#footer {
+	background: #534741;
+	height: 40px;
+	clear: both;
+}
